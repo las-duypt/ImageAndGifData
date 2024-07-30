@@ -1,6 +1,7 @@
 {
   "datas": {
     "Animal": {
+      "name": "Animal",
       "images": [
         {
           "image": "https://babilala.vn/wp-content/uploads/2023/07/day-be-nhan-biet-cac-con-vat-con-meo.png"
@@ -55,6 +56,7 @@
       ]
     },
     "Universe": {
+      "name": "Universe",
       "images": [
         {
           "image": "https://i.pinimg.com/736x/aa/85/93/aa8593ec681632f7a80ce6180e9e1413.jpg"
