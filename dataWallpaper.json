@@ -34,6 +34,22 @@
         {
           "name": "animalTiger",
           "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_animal/animalTiger.jpeg?raw=true"
+        },
+        {
+          "name": "animalLion",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_animal/animalLion.jpg?raw=true"
+        },
+        {
+          "name": "animalSquirrel",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_animal/animalSquirrel.jpeg?raw=true"
+        },
+        {
+          "name": "animalZebra",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_animal/animalZebra.jpeg?raw=true"
+        },
+        {
+          "name": "animalFox",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_animal/animalsFox.jpeg?raw=true"
         }
       ]
     },
@@ -71,6 +87,234 @@
         {
           "name": "universe7",
           "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_Universe/universe7.jpeg?raw=true"
+        },
+        {
+          "name": "universe8",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_Universe/universe8.jpeg?raw=true"
+        },
+        {
+          "name": "universe9",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_Universe/universe9.jpeg?raw=true"
+        },
+        {
+          "name": "universe10",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_Universe/universe10.jpeg?raw=true"
+        },
+        {
+          "name": "universe11",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_Universe/universe11.jpg?raw=true"
+        }
+      ]
+    },
+    "Beach": {
+      "name": "Beach",
+      "images": [
+        {
+          "name": "beachalone",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_beach/beach_alone.jpg?raw=true"
+        },
+        {
+          "name": "beachbeauty",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_beach/beach_beauty.jpeg?raw=true"
+        },
+        {
+          "name": "beachbird",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_beach/beach_bird.jpeg?raw=true"
+        },
+        {
+          "name": "beachboat",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_beach/beach_boat.jpg?raw=true"
+        },
+        {
+          "name": "beachland",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_beach/beach_land.jpeg?raw=true"
+        },
+        {
+          "name": "beachlove",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_beach/beach_love.jpeg?raw=true"
+        },
+        {
+          "name": "beachrelax",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_beach/beach_relax.jpeg?raw=true"
+        },
+        {
+          "name": "beachsummer",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_beach/beach_summer.jpeg?raw=true"
+        },
+        {
+          "name": "beachsunset",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_beach/beach_sunset.jpeg?raw=true"
+        },
+        {
+          "name": "beachtravel",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_beach/beach_travel.jpeg?raw=true"
+        },
+        {
+          "name": "beachtree",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_beach/beach_tree.jpeg?raw=true"
+        },
+        {
+          "name": "beachwonderful",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_beach/beach_wonderful.jpg?raw=true"
+        }
+      ]
+    },
+    "Car": {
+      "name": "Car",
+      "images": [
+        {
+          "name": "carLamborghini",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_car/car_Lamborghini.jpeg?raw=true"
+        },
+        {
+          "name": "carLamborghiniblack",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_car/car_Lamborghini_black.jpeg?raw=true"
+        },
+        {
+          "name": "carMercedes",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_car/car_Mercedes.jpg?raw=true"
+        },
+        {
+          "name": "carMercedesbenz",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_car/car_Mercedes_benz.jpeg?raw=true"
+        },
+        {
+          "name": "carRollsRoyce",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_car/car_RollsRoyce.jpeg?raw=true"
+        },
+        {
+          "name": "carRollsRoycegold",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_car/car_RollsRoyce_gold.jpeg?raw=true"
+        },
+        {
+          "name": "caraudiblack",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_car/car_audi_black.jpeg?raw=true"
+        },
+        {
+          "name": "caraudiblue",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_car/car_audi_blue.jpeg?raw=true"
+        },
+        {
+          "name": "carbmw",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_car/car_bmw.jpeg?raw=true"
+        },
+        {
+          "name": "carbmw1",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_car/car_bmw1.jpeg?raw=true"
+        },
+        {
+          "name": "carbmwi8",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_car/car_bmw_i8.jpg?raw=true"
+        },
+        {
+          "name": "carferrari",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_car/car_ferrari.jpg?raw=true"
+        }
+      ]
+    },
+    "Mountain": {
+      "name": "Mountain",
+      "images": [
+        {
+          "name": "mountainbeach",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_mountain/mountain_beach.jpeg?raw=true"
+        },
+        {
+          "name": "mountainbigcloud",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_mountain/mountain_big_cloud.jpg?raw=true"
+        },
+        {
+          "name": "mountaincity",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_mountain/mountain_city.jpeg?raw=true"
+        },
+        {
+          "name": "mountaincloud",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_mountain/mountain_cloud.jpg?raw=true"
+        },
+        {
+          "name": "mountaincloudsnow",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_mountain/mountain_cloud_snow.jpeg?raw=true"
+        },
+        {
+          "name": "mountainlake",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_mountain/mountain_lake.jpeg?raw=true"
+        },
+        {
+          "name": "mountainnice",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_mountain/mountain_nice.jpeg?raw=true"
+        },
+        {
+          "name": "mountainsnow",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_mountain/mountain_snow.jpeg?raw=true"
+        },
+        {
+          "name": "mountainsnowbeauty",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_mountain/mountain_snow_beauty.jpeg?raw=true"
+        },
+        {
+          "name": "mountaintree",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_mountain/mountain_tree.jpg?raw=true"
+        },
+        {
+          "name": "mountainuniverse",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_mountain/mountain_universe.jpeg?raw=true"
+        },
+        {
+          "name": "mountainvillage",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_mountain/mountain_village.jpeg?raw=true"
+        }
+      ]
+    },
+    "River": {
+      "name": "River",
+      "images": [
+        {
+          "name": "river",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_river/river.jpeg?raw=true"
+        },
+        {
+          "name": "riveralone",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_river/river_alone.jpeg?raw=true"
+        },
+        {
+          "name": "riverbigcity",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_river/river_big_city.jpeg?raw=true"
+        },
+        {
+          "name": "riverboat",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_river/river_boat.jpeg?raw=true"
+        },
+        {
+          "name": "riverbigmoutain",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_river/river_bug_moutain.jpeg?raw=true"
+        },
+        {
+          "name": "rivercity",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_river/river_city.jpeg?raw=true"
+        },
+        {
+          "name": "riverlake",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_river/river_lake.jpg?raw=true"
+        },
+        {
+          "name": "rivermoutain",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_river/river_moutain.jpeg?raw=true"
+        },
+        {
+          "name": "rivernice",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_river/river_nice.jpeg?raw=true"
+        },
+        {
+          "name": "riverpeace",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_river/river_peace.jpeg?raw=true"
+        },
+        {
+          "name": "riversky",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_river/river_sky.jpeg?raw=true"
+        },
+        {
+          "name": "rivervillage",
+          "image": "https://github.com/las-duypt/ImageAndGifData/blob/main/image_river/river_village.jpeg?raw=true"
         }
       ]
     }
